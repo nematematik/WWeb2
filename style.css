@@ -1,0 +1,38 @@
+h3{
+  border-style:outset;
+  border-color:white;
+  background:pink;
+  font-family:Torhok, fantasy;
+  text-decoration:none;
+ }
+a:hover{
+  border-style:outset;
+  border-color:white;
+  background:pink;
+  font-family:Torhok, fantasy;
+  color:blue;
+  text-decoration:underline;
+ }
+a:visited{
+  border-style:outset;
+  border-color:white;
+  background:pink;
+  font-family:Torhok, fantasy;
+  color:black;
+  text-decoration:none;
+ }
+p#zag{
+  letter-spacing:5px;
+ }
+h5{
+  font-style:oblique;
+ }
+div{
+ color:black;
+ }
+ul{
+ list-style-type:disk;
+ }
+ol{
+ list-style-type:lower-alpha;
+ }
